@@ -2,14 +2,14 @@
 	{
 		"name": "Holodeck",
 		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
+		"uniqueTo": "Foxes",
+		"cost": 10,
 		"happiness": 12,
 		"culture": 12,
 		"science": 12,
 		"maintenance": 96,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
+		"requiredBuildingInAllCities": "Hunt",
 		"requiredTech": "Horseback Riding"
 	},
 	{
