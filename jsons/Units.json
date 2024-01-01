@@ -9,8 +9,8 @@
 		"rangedStrength": 36,
 		"range": 2,
 		"cost": 100,
-		"requiredTech": "Hunt",
-		"requiredResource": "Salt",
+		"requiredTech": "Engineering",
+		"requiredResource": "Uranium",
 		"promotions": ["Logistics","Accuracy I"],
 		"attackSound": "phasers"
 	}
