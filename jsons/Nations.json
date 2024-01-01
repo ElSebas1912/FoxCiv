@@ -1,18 +1,18 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
+		"name": "FoxCiv",
+		"leaderName": "Manto Ígneo",
+		"adjective": ["Aggressive"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart2": "This is a nation capable of overthrowing any empire, stop us if you dare, but it will cost you dearly.!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
+		"declaringWar": "Resistance is futile! Prepare to be annihilated!",
 		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"defeated": "As? Is our kingdom over? It's not possible, this is a nightmare and I want to wake up.",
+		"introduction": "Gain? Piece of cake man. Lose? Impossible for our empire.",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -24,15 +24,15 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Wow! This battle was good, next time I won't hold back.",
+		"tradeRequest": "Thank you! Your cooperation is appreciated (Licks his fur)",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [253,90,53],
+		"innerColor": [259,50,0],
 		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["The Great Burrow","Q'Zorvolandia","Q'Vulpaterra","Q'Vulpaterra","Q'Renópolis","Q'Colavix","Q'Furratia","Q'Vulpitopia","Q'Peludonia",
+			"Q'Zorrianth","Q'Ronquonia","Q'Ronquiland","Q'Gax","Q'Peludosia","Q'Zorrostán","Q'Zorronópolis","Q'Zomirs","Q'Zorromar","Q'Pelufonia",
+			"Q'Zulgra","Q'Zorrogria","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
+			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Far far away"]
 	}
 ]
